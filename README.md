@@ -1,4 +1,4 @@
-# Nanoprocessor — Team 5
+# Nanoprocessor 
 
 A fully structural VHDL implementation of a 4-bit nanoprocessor, designed and synthesised for the **Digilent Basys 3 (Artix-7)** FPGA board. The project is delivered in two versions: a **Basic** implementation and an **Extended** implementation with an expanded instruction set and ALU.
 
