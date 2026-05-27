@@ -23,7 +23,6 @@ A fully structural VHDL implementation of a 4-bit nanoprocessor, designed and sy
 - [Programming the FPGA](#programming-the-fpga)
 - [Running Simulations](#running-simulations)
 - [Component Hierarchy](#component-hierarchy)
-- [Team](#team)
 
 ---
 
@@ -394,22 +393,10 @@ nanoprocessor_top_v2
 ```
 
 ---
-
-## Team
-
-**Team 5** — Digital Design Module
-
-| Member | Contribution |
-|---|---|
-| Team 5 Member 1 | Basic processor RTL, instruction decoder |
-| Team 5 Member 2 | Register bank, ALU, extended decoder |
-| Team 5 Member 3 | Program ROM, testbenches, simulation |
-| Team 5 Member 4 | Constraints, board bring-up, report |
-
-> See [`docs/Nanoprocessor_Report_Team5.pdf`](docs/Nanoprocessor_Report_Team5.pdf) for the full design report including waveform screenshots, resource utilisation, and design decisions.
+> See [`docs/Nanoprocessor_Report_Team5.pdf`](docs/Nanoprocessor_Report.pdf) for the full design report including waveform screenshots, resource utilisation, and design decisions.
 
 ---
 
 ## License
 
-This project was developed for academic purposes. All VHDL source files are original work by Team 5.
+This project was developed for academic purposes.
