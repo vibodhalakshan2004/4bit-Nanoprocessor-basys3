@@ -1,0 +1,42 @@
+# Vivado project files (generated, not needed in source control)
+*.jou
+*.log
+*.str
+*.xpr
+*.xsa
+
+# Vivado cache and build directories
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+*.srcs/
+
+# Synth / impl outputs (bitstreams are committed separately in /bitstreams)
+*.dcp
+*.rpt
+*.pb
+*.wdf
+*.wpc
+*.xml
+*.rst
+*.tcl
+htr.txt
+ISEWrap.*
+webtalk*
+
+# Do NOT ignore .bit files tracked under bitstreams/
+!bitstreams/*.bit
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+*.swp
+*~
